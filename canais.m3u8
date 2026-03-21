@@ -7,8 +7,14 @@ https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_480_a
 https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda Nova Chance Alternativo (Apenas Brasil)" tvg-logo="https://i.imgur.com/FuRKLSq.png" group-title="Premiere",A Fazenda Nova Chance Alternativo (Apenas Brasil)
 https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_360_av-p.m3u8
+#EXTINF:-1 tvg-id="Bloonberg.br" tvg-name="Bloonberg" tvg-logo="https://cdn.mitvstatic.com/channels/br_bloomberg_m.png" group-title="Diversos",Bloonberg
+https://d1g4mbj10o50ni.cloudfront.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo RJ HD
 http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/170.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I1stOTF.png"  group-title="Diversos",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zwmjsB6.png" group-title="Diversos",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo RJ
 http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1448.ts
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD Alternativo" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo RJ HD Alternativo
